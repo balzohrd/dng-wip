@@ -73,7 +73,7 @@ a:after {
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
-	min-height: 730px;
+	min-height:730px;
 	width: 100%;
 	
     -webkit-background-size: 100%;
@@ -152,7 +152,11 @@ a:after {
 }
 
 #g p {
-    letter-spacing:;
+    margin-left: 5px;
+    margin-right: 5px;
+    letter-spacing: 1px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     
 }
 
