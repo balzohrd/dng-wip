@@ -245,6 +245,28 @@ a:after {
     font-size:18px;
 }
 
+
+
+/* Smartphones (portrait and landscape) */
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+/* Styles */
+    #g h3 {
+        font-size:20px;    
+    }
+    
+    #dg h3 {
+       font-size:20px; 
+    }
+    
+    #f h3 {
+      font-size:20px;  
+    }
+}
+
+
+
 /* MENU CONF*/
 
 .menu {
