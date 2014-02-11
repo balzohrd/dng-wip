@@ -151,6 +151,11 @@ a:after {
     font-family:'Special Elite';
 }
 
+#g p {
+    letter-spacing:;
+    
+}
+
 /* Dark Grey Wrap */
 #dg {
 	background: #e0e0e0;
@@ -182,7 +187,7 @@ a:after {
 #dg h5 {
     font-family:'Amatic SC';
     font-weight:400;
-    font-size:27px;
+    font-size:22px;
     letter-spacing:2px;
 }
 /* Footer Wrap */
