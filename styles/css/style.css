@@ -67,7 +67,7 @@ a:after {
 /* HEADER*/
 
 #headerwrap {
-	background-color:#a9dba9;
+    background: #a9dba9 center top;
 	margin-top: -10px;
 	padding-top:20px;
 	text-align:center;
@@ -90,7 +90,7 @@ a:after {
 #headerwrap h1 {
 	margin-top: 190px;
 	color: white;
-	font-size: 140px;
+	/*font-size: 140px;*/
 	font-weight: 400;
 	letter-spacing: 4px;
     font-family:'Special Elite';
@@ -99,7 +99,7 @@ a:after {
 #headerwrap h2 {
     margin-top: -40px;
 	color: white;
-	font-size: 50px;
+	/*font-size: 50px;*/
 	font-weight: 100;
 	letter-spacing: 7px;
     font-family:'Amatic SC';
@@ -139,7 +139,7 @@ a:after {
 }
 #g h3 {
 	font-weight: 700;
-    font-size:38px;
+    /*font-size:38px;*/
 	letter-spacing: 1px;
     text-transform:uppercase;
     font-family:'Special Elite';
@@ -170,7 +170,7 @@ a:after {
 
 #dg h3 {
 	font-weight: 700;
-    font-size:38px;
+    /*font-size:38px;*/
 	letter-spacing: 1px;
     text-transform:uppercase;
     font-family:'Special Elite';
@@ -178,20 +178,20 @@ a:after {
 
 #dg bold {
     font-weight:600;
-    font-size:30px;
+    /*font-size:30px;*/
     font-family:'Special Elite';
 }
 
 #dg h4 {
     font-family:'Special Elite';
     font-weight:500;
-    font-size:20px;
+   /* font-size:20px;*/
 }
 
 #dg h5 {
     font-family:'Amatic SC';
     font-weight:400;
-    font-size:22px;
+   /* font-size:22px;*/
     letter-spacing:2px;
 }
 /* Footer Wrap */
@@ -206,7 +206,7 @@ a:after {
 #f h3 {
 	color: white;
     font-weight: 700;
-    font-size:38px;
+    /*font-size:38px;*/
 	letter-spacing: 1px;
     text-transform:uppercase;
     font-family:'Special Elite';
@@ -215,13 +215,13 @@ a:after {
 #f h4 {
 	color: white;
     font-weight: 300;
-    font-size:25px;
+    /*font-size:25px;*/
 	letter-spacing: 1px;
     
 }
 
 #f i {
-	font-size: 26px;
+	/*font-size: 26px;*/
 	color: white;
 	padding-left: 10px;
 	padding-right: 10px;
@@ -242,7 +242,7 @@ a:after {
 
 #c p a {
     font-family:'Special Elite';
-    font-size:18px;
+    /*font-size:18px;*/
 }
 
 
@@ -262,9 +262,10 @@ and (max-device-width : 480px) {
     
     #f h3 {
       font-size:20px;  
-    }
+    }*/
+    
 }
-*/
+
 
 
 /* MENU CONF*/
@@ -294,7 +295,7 @@ and (max-device-width : 480px) {
 
 .menu h1.logo a {
 	font-family:'Special Elite';
-	font-size: 40px;
+	/*font-size: 40px;*/
 	font-weight: 400;
 	letter-spacing: 0.15em;
 	line-height: 40px;
@@ -316,7 +317,7 @@ and (max-device-width : 480px) {
 	margin-left: 20px;
 	color: #808080;
 	display: block;
-	font-size: 35px;
+	/*font-size: 35px;*/
     font-family: 'Amatic SC';
 	font-weight: 400;
 	line-height: 40px;
@@ -338,7 +339,7 @@ and (max-device-width : 480px) {
 	vertical-align: middle; 
 	text-align: left;
 	width: 25px;
-	font-size: 20px;
+	/*font-size: 20px;*/
 	line-height: 40px;
 	margin: 25px 2px;
 }
@@ -347,7 +348,7 @@ and (max-device-width : 480px) {
 	cursor: pointer;
 	display: block;
 	position: absolute;
-	font-size: 14px;
+	/*font-size: 14px;*/
 	color: #808080;
 	width: 40px;
 	height: 40px;
@@ -401,7 +402,7 @@ and (max-device-width : 480px) {
 	z-index: 11;
 	display: block;
 	text-align: center;
-	font-size: 20px;
+	/*font-size: 20px;*/
 	color: #ffffff;
 	width: 45px;
 	height: 45px;
@@ -452,7 +453,7 @@ and (max-device-width : 480px) {
     padding: 7px 16px;
     border: 2px solid #fff;
     border-radius: 35px;
-    font-size: 40px;
+   /* font-size: 40px;*/
     color: #fff;
     background: 0 0;
     -webkit-transition: background .3s ease-in-out;
