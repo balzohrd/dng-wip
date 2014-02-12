@@ -251,18 +251,18 @@ a:after {
 @media only screen 
 and (min-device-width : 320px) 
 and (max-device-width : 480px) {
-/* Styles 
+/* Styles */
     #g h3 {
-        font-size:20px;    
+        font-size:22px;    
     }
     
     #dg h3 {
-       font-size:20px; 
+       font-size:22px; 
     }
     
     #f h3 {
-      font-size:20px;  
-    }*/
+      font-size:22px;  
+    }
     
     #headerwrap {
         min-height:700px;
