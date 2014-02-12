@@ -253,15 +253,15 @@ and (min-device-width : 320px)
 and (max-device-width : 480px) {
 /* Styles */
     #g h3 {
-        font-size:22px;    
+        font-size:23px;    
     }
     
     #dg h3 {
-       font-size:22px; 
+       font-size:23px; 
     }
     
     #f h3 {
-      font-size:22px;  
+      font-size:23px;  
     }
     
     #headerwrap {
